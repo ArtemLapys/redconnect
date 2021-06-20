@@ -1,0 +1,3 @@
+{
+    "files": ["reg_ui.py","autorization.py","Connect.py","Terminal.py","resourceRedConnect.qrc","shell.py","registration_dialog.ui","login_ui.py","login_dialog.ui","form.ui","main_ui.py","Login.py","main.py","Server.py"]
+}
